@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9EFAAD08-8AEC-4E6F-996C-E2778D4B45E1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SASSMMS.ApplicationService</RootNamespace>
+    <AssemblyName>SASSMMS.ApplicationService</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\Implementations\CategoryService.cs" />
+    <Compile Include="Services\Implementations\ClubMemberService.cs" />
+    <Compile Include="Services\Implementations\ClubService.cs" />
+    <Compile Include="Services\Implementations\DivisionService.cs" />
+    <Compile Include="Services\Implementations\MemberAttendanceService.cs" />
+    <Compile Include="Services\Implementations\MemberCategoryService.cs" />
+    <Compile Include="Services\Implementations\MemberOccupationService.cs" />
+    <Compile Include="Services\Implementations\MemberPositionService.cs" />
+    <Compile Include="Services\Implementations\MemberQualificationService.cs" />
+    <Compile Include="Services\Implementations\MemberService.cs" />
+    <Compile Include="Services\Implementations\MemberStatusService.cs" />
+    <Compile Include="Services\Implementations\OccupationService.cs" />
+    <Compile Include="Services\Implementations\ParentService.cs" />
+    <Compile Include="Services\Implementations\PositionService.cs" />
+    <Compile Include="Services\Implementations\QualificationService.cs" />
+    <Compile Include="Services\Implementations\RegionService.cs" />
+    <Compile Include="Services\Implementations\SchoolService.cs" />
+    <Compile Include="Services\Implementations\StatusService.cs" />
+    <Compile Include="Services\Implementations\SubcityService.cs" />
+    <Compile Include="Services\Implementations\WoredaService.cs" />
+    <Compile Include="Services\Interfaces\ICategoryService.cs" />
+    <Compile Include="Services\Interfaces\IClubMemberService.cs" />
+    <Compile Include="Services\Interfaces\IClubService.cs" />
+    <Compile Include="Services\Interfaces\IDivisionService.cs" />
+    <Compile Include="Services\Interfaces\IMemberAttendanceService.cs" />
+    <Compile Include="Services\Interfaces\IMemberCategoryService.cs" />
+    <Compile Include="Services\Interfaces\IMemberOccupationService.cs" />
+    <Compile Include="Services\Interfaces\IMemberPositionService.cs" />
+    <Compile Include="Services\Interfaces\IMemberQualificationService.cs" />
+    <Compile Include="Services\Interfaces\IMemberService.cs" />
+    <Compile Include="Services\Interfaces\IMemberStatusService.cs" />
+    <Compile Include="Services\Interfaces\IOccupationService.cs" />
+    <Compile Include="Services\Interfaces\IParentService.cs" />
+    <Compile Include="Services\Interfaces\IPositionService.cs" />
+    <Compile Include="Services\Interfaces\IQualificationService.cs" />
+    <Compile Include="Services\Interfaces\ISchoolService.cs" />
+    <Compile Include="Services\Interfaces\IStatusService.cs" />
+    <Compile Include="Services\Interfaces\ISubcityService.cs" />
+    <Compile Include="Services\Interfaces\IRegionService.cs" />
+    <Compile Include="Services\Interfaces\IWoredaService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SASSMMS.Domain\SASSMMS.Domain.csproj">
+      <Project>{6d2af112-42a0-4b6f-9afc-292239c89d8c}</Project>
+      <Name>SASSMMS.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SASSMMS.Repository\SASSMMS.Repository.csproj">
+      <Project>{f6bbdbac-a03a-4cbb-84ab-a6ff806e08ca}</Project>
+      <Name>SASSMMS.Repository</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

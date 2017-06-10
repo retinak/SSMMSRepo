@@ -1,0 +1,49 @@
+D:\Amanuel Sunday School\SASSMMS\SASSMMS.Domain\bin\Debug\SASSMMS.Domain.dll
+D:\Amanuel Sunday School\SASSMMS\SASSMMS.Domain\bin\Debug\SASSMMS.Domain.pdb
+D:\Amanuel Sunday School\SASSMMS\SASSMMS.Domain\obj\Debug\SASSMMS.Domain.dll
+D:\Amanuel Sunday School\SASSMMS\SASSMMS.Domain\obj\Debug\SASSMMS.Domain.pdb
+D:\Amanuel Sunday School\SASSMMS\SASSMMS.Domain\obj\Debug\SASSMMS.Domain.csprojResolveAssemblyReference.cache
+E:\SASSMMS\SASSMMS.Domain\bin\Debug\SASSMMS.Domain.dll
+E:\SASSMMS\SASSMMS.Domain\bin\Debug\SASSMMS.Domain.pdb
+E:\SASSMMS\SASSMMS.Domain\obj\Debug\SASSMMS.Domain.dll
+E:\SASSMMS\SASSMMS.Domain\obj\Debug\SASSMMS.Domain.pdb
+E:\SASSMMS\SASSMMS.Domain\obj\Debug\SASSMMS.Domain.csprojResolveAssemblyReference.cache
+E:\MyRepo\SASSMMS\SASSMMS.Domain\bin\Debug\SASSMMS.Domain.dll.config
+E:\MyRepo\SASSMMS\SASSMMS.Domain\bin\Debug\SASSMMS.Domain.dll
+E:\MyRepo\SASSMMS\SASSMMS.Domain\bin\Debug\SASSMMS.Domain.pdb
+E:\MyRepo\SASSMMS\SASSMMS.Domain\bin\Debug\EntityFramework.dll
+E:\MyRepo\SASSMMS\SASSMMS.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\MyRepo\SASSMMS\SASSMMS.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\MyRepo\SASSMMS\SASSMMS.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\MyRepo\SASSMMS\SASSMMS.Domain\bin\Debug\EntityFramework.xml
+E:\MyRepo\SASSMMS\SASSMMS.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\MyRepo\SASSMMS\SASSMMS.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\MyRepo\SASSMMS\SASSMMS.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\MyRepo\SASSMMS\SASSMMS.Domain\obj\Debug\SASSMMS.Domain.dll
+E:\MyRepo\SASSMMS\SASSMMS.Domain\obj\Debug\SASSMMS.Domain.pdb
+E:\MyRepo\SASSMMS\SASSMMS.Domain\obj\Debug\SASSMMS.Domain.csprojResolveAssemblyReference.cache
+E:\MyRepo\RetinaRepository\SASSMMS\SASSMMS.Domain\bin\Debug\SASSMMS.Domain.dll.config
+E:\MyRepo\RetinaRepository\SASSMMS\SASSMMS.Domain\bin\Debug\SASSMMS.Domain.dll
+E:\MyRepo\RetinaRepository\SASSMMS\SASSMMS.Domain\bin\Debug\SASSMMS.Domain.pdb
+E:\MyRepo\RetinaRepository\SASSMMS\SASSMMS.Domain\bin\Debug\EntityFramework.dll
+E:\MyRepo\RetinaRepository\SASSMMS\SASSMMS.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\MyRepo\RetinaRepository\SASSMMS\SASSMMS.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\MyRepo\RetinaRepository\SASSMMS\SASSMMS.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\MyRepo\RetinaRepository\SASSMMS\SASSMMS.Domain\bin\Debug\EntityFramework.xml
+E:\MyRepo\RetinaRepository\SASSMMS\SASSMMS.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\MyRepo\RetinaRepository\SASSMMS\SASSMMS.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\MyRepo\RetinaRepository\SASSMMS\SASSMMS.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\MyRepo\RetinaRepository\SASSMMS\SASSMMS.Domain\obj\Debug\SASSMMS.Domain.csprojResolveAssemblyReference.cache
+E:\MyRepo\RetinaRepository\SASSMMS\SASSMMS.Domain\obj\Debug\SASSMMS.Domain.dll
+E:\MyRepo\RetinaRepository\SASSMMS\SASSMMS.Domain\obj\Debug\SASSMMS.Domain.pdb
+E:\MyRepo\RetinaRepository\SASSMMS\SASSMMS.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\MyRepo\RetinaRepository\SASSMMS\SASSMMS.Domain\bin\Debug\Newtonsoft.Json.dll
+E:\MyRepo\RetinaRepository\SASSMMS\SASSMMS.Domain\bin\Debug\Swashbuckle.Core.dll
+E:\MyRepo\RetinaRepository\SASSMMS\SASSMMS.Domain\bin\Debug\System.Net.Http.Formatting.dll
+E:\MyRepo\RetinaRepository\SASSMMS\SASSMMS.Domain\bin\Debug\System.Web.Http.dll
+E:\MyRepo\RetinaRepository\SASSMMS\SASSMMS.Domain\bin\Debug\System.Web.Http.WebHost.dll
+E:\MyRepo\RetinaRepository\SASSMMS\SASSMMS.Domain\bin\Debug\WebActivatorEx.dll
+E:\MyRepo\RetinaRepository\SASSMMS\SASSMMS.Domain\bin\Debug\Newtonsoft.Json.xml
+E:\MyRepo\RetinaRepository\SASSMMS\SASSMMS.Domain\bin\Debug\System.Net.Http.Formatting.xml
+E:\MyRepo\RetinaRepository\SASSMMS\SASSMMS.Domain\bin\Debug\System.Web.Http.xml
+E:\MyRepo\RetinaRepository\SASSMMS\SASSMMS.Domain\bin\Debug\System.Web.Http.WebHost.xml
